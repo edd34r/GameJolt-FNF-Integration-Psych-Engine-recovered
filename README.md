@@ -58,7 +58,7 @@ Then in this class at the function `loadPrefs` add
         }
 ```
 
-This is for making the game to save the GameJolt user, Token and if you enable the leaderboardToggle in GAmeJoltLogin state in game
+This is for making the game to save the GameJolt user, Token and if you enable the leaderboardToggle in GameJoltLogin state in game
 
 # SETUP (TOASTS):
 

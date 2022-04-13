@@ -28,7 +28,7 @@ class GameJoltKeys
 
 ### You can find your game's API key and ID code within the game page's settngs under the game API tab.
 
-# SETUP (In Game ID Saves):
+# SETUP (In Game Saves):
 
 Make sure to add `import gamejolt.*;` at the top of `ClientPrefs.hx`!
 

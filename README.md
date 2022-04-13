@@ -90,8 +90,9 @@ TYSM Firubii for your help!
 import gamejolt.GameJoltAPI;
 ```
 
-## These commands **must** be ran before starting the API. Place these in `TitleState.hx`:
+## These commands **must** be ran before starting the API. Place these in `TitleState.hx` at function create:
 
+put those after ClientPrefs.loadPrefs(); function to make sure the game load the game saves
 ```hx
 GameJoltAPI.connect();
 GameJoltAPI.authDaUser(FlxG.save.data.gjUser, FlxG.save.data.gjToken);

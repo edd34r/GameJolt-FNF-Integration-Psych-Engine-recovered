@@ -63,7 +63,8 @@ This is for making the game to save the GameJolt user, Token and if you enable t
 # SETUP (TOASTS):
 
 ## **Thank you Firubii for the code for this! Please go check them out!**
-**https://twitter.com/firubiii / https://github.com/firubii**
+**https://twitter.com/firubiii**
+**https://github.com/firubii**
 
 To setup toasts, you will need to do a few things.
 

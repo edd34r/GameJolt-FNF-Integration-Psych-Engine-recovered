@@ -30,7 +30,7 @@ class GameJoltKeys
 
 # SETUP (In Game Saves):
 
-Make sure to add `import gamejolt.*;` at the top of `ClientPrefs.hx`!
+Make sure to add `import gamejolt.GameJoltAPI;` at the top of `ClientPrefs.hx`!
 
 Then in this class at the function `loadPrefs` add
 
